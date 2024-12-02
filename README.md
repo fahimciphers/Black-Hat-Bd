@@ -1,7 +1,5 @@
 
----
 
-```markdown
 # 🎩 **Black-Hat-Bd**  
 
 🚀 **Black-Hat-Bd** is a project showcasing cutting-edge implementations of **sliders**, **animations**, and other interactive web features that enhance the modern web experience.
